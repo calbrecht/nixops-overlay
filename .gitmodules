@@ -1,0 +1,9 @@
+[submodule "nixops"]
+	path = nixops
+	url = https://github.com/nixos/nixops
+[submodule "nixops-hetzner"]
+	path = nixops-hetzner
+	url = git@calbrecht.github.com:calbrecht/nixops-hetzner.git
+[submodule "nixops-libvirtd"]
+	path = nixops-libvirtd
+	url = git@calbrecht.github.com:calbrecht/nixops-libvirtd.git
